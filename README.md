@@ -1,6 +1,6 @@
-# Route MatriX Randomizer progress displayer
+# Route MatriX Randomizer Tracker (English)
 
-by f6bfb5 and fsworld009
+by f6bfb5 and fsworld009, translated by jxgoEX
 
 使用說明和設定請參考[README](https://github.com/fsworld009/rockman-x-route-matrix-randomizer-progress-displayer/tree/feat/integrate-tracker-js)
 
