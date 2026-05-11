@@ -529,3 +529,4 @@ vite.config.ts
 vk_swiftshader.dll
 vk_swiftshader_icd.json
 vulkan-1.dll
+progress_tracker_js/RMR_progress_tracker_report.js
